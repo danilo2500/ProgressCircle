@@ -7,92 +7,92 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3921A84AB31C6364C6BBCF4DA22CCB15 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		6731E7919013603FAD9B496739091389 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		693CF11CA89F81B21288210907AEAFBD /* ProgressCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EE4DAF831EDA31D621D233415F5F60 /* ProgressCircle.swift */; };
-		A048FE22EAE4D8251BB60B3A3BA26491 /* ProgressCircle-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 69600DEDBE1490659439036BA09D11E4 /* ProgressCircle-dummy.m */; };
-		AC251CB3D651D980589A618E50E58D03 /* Pods-ProgressCircle_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 302AC7B5AF32F936B55A9EE8B7774A69 /* Pods-ProgressCircle_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C3F17795CEB406F0103D8BCA0DCFA822 /* ProgressCircle-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C05152D95A78B31F203255B00218D2B4 /* ProgressCircle-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		ED723AE9F6F8A444995081F43A2B2AE9 /* Pods-ProgressCircle_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 261BCCAFE850D927E4396832ED4EB60E /* Pods-ProgressCircle_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EE2EE34D7B76F6AF1896AB2C748E64DF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		F0461D5A6FF9C9A9BCD2AB1AD368D18C /* Pods-ProgressCircle_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 53FAAFCA78CB27AA8A23508B98548503 /* Pods-ProgressCircle_Example-dummy.m */; };
-		FCAD6979B70E4D547A58306AEF3D41AD /* Pods-ProgressCircle_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 72C9FBF2A593C0921D7C739ADAB72839 /* Pods-ProgressCircle_Tests-dummy.m */; };
+		2DC14D34B81437965255FCA2A34A06C8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		36B06824205FBBA3DB281F4EC59710C2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		71B193CCD089CB15D39E03077BEA5489 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		885FFB1BCB0DB9A12DBEBC258EEF54D2 /* Pods-ProgressCircle_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E1C8AC39A56B309584D7697924EA8270 /* Pods-ProgressCircle_Example-dummy.m */; };
+		986EB0E55C9871840AADFD9C64213334 /* ProgressCircle-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 79FAEE8B6CC6362B24BB544AF1198BAA /* ProgressCircle-dummy.m */; };
+		A8C3C0E2BF35C740845C247960138F31 /* ProgressCircle-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 005BE8579092E0E3262E249DD8C3F35C /* ProgressCircle-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BC1DE4716F719F1947A0570D589619CD /* Pods-ProgressCircle_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 716C1ED7460E618F6C0C610DE0E540E0 /* Pods-ProgressCircle_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D552D347AFE79810C7BCA435500EB29C /* ProgressCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EE4DAF831EDA31D621D233415F5F60 /* ProgressCircle.swift */; };
+		E1B487FA4F8F17D2E29DDB9069DFA229 /* Pods-ProgressCircle_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E64A52BF9085FE7DB7EA4A4CC2159D26 /* Pods-ProgressCircle_Tests-dummy.m */; };
+		FBB8AB2535990C18A015FB516A4A154B /* Pods-ProgressCircle_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B4A17A09CED01FE67E4834B8FAF13592 /* Pods-ProgressCircle_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2D6311BB731376E32AE749A8C4A90E88 /* PBXContainerItemProxy */ = {
+		2EE674D41FF9BBB40CA963F8DCF41CB4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 490B359DE836D60992E09A2CB7923351;
+			remoteGlobalIDString = 62BE87AEA11593C94A1F7D1E60C7A555;
 			remoteInfo = "Pods-ProgressCircle_Example";
 		};
-		E7D5334EE9188C714FDD26B690AFBEF2 /* PBXContainerItemProxy */ = {
+		BAC23DFBCBA86F36A5A3BB55FDA34183 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 6FB0A3D6F537F44AB7801A3B65900F69;
+			remoteGlobalIDString = B0AB60E8701C71E591C53C297B3851E6;
 			remoteInfo = ProgressCircle;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		06A364DF187D3F47730AE2E0119DEBFD /* Pods-ProgressCircle_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ProgressCircle_Example-frameworks.sh"; sourceTree = "<group>"; };
-		081C2FA9AEC1C64D98C2947619CAB403 /* Pods_ProgressCircle_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ProgressCircle_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1F9418BAEC858687FCD1023C60F4B8FE /* Pods-ProgressCircle_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ProgressCircle_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		005BE8579092E0E3262E249DD8C3F35C /* ProgressCircle-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ProgressCircle-umbrella.h"; sourceTree = "<group>"; };
+		128479C815CD72F134E9B0B8C2C3966F /* ProgressCircle.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ProgressCircle.modulemap; sourceTree = "<group>"; };
+		1365422034E8E298768535246B514255 /* Pods-ProgressCircle_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ProgressCircle_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		21EE4DAF831EDA31D621D233415F5F60 /* ProgressCircle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProgressCircle.swift; path = ProgressCircle/Classes/ProgressCircle.swift; sourceTree = "<group>"; };
-		261BCCAFE850D927E4396832ED4EB60E /* Pods-ProgressCircle_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ProgressCircle_Tests-umbrella.h"; sourceTree = "<group>"; };
-		302AC7B5AF32F936B55A9EE8B7774A69 /* Pods-ProgressCircle_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ProgressCircle_Example-umbrella.h"; sourceTree = "<group>"; };
+		2B072B4050FE44A2E472C832EB353F92 /* Pods-ProgressCircle_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ProgressCircle_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		2DBD410B7E9D52722359F0B774C7E6AB /* Pods-ProgressCircle_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ProgressCircle_Example.release.xcconfig"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		39F142B058B75E7043714532FECC039A /* Pods-ProgressCircle_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ProgressCircle_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		53FAAFCA78CB27AA8A23508B98548503 /* Pods-ProgressCircle_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ProgressCircle_Example-dummy.m"; sourceTree = "<group>"; };
-		54E3E288E39F0884063C40C2A8507CFA /* Pods-ProgressCircle_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ProgressCircle_Example.modulemap"; sourceTree = "<group>"; };
-		59502021AB21D110C314540713F33214 /* Pods_ProgressCircle_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ProgressCircle_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5B59BBF9DE0C8909E1C6D3E94DDB8643 /* Pods-ProgressCircle_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ProgressCircle_Tests-Info.plist"; sourceTree = "<group>"; };
-		6300A7E1AB353A1E483DE005E7D57296 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		69600DEDBE1490659439036BA09D11E4 /* ProgressCircle-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ProgressCircle-dummy.m"; sourceTree = "<group>"; };
-		72C9FBF2A593C0921D7C739ADAB72839 /* Pods-ProgressCircle_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ProgressCircle_Tests-dummy.m"; sourceTree = "<group>"; };
-		7E2021B5FC461DDEA2A544A339772FD7 /* Pods-ProgressCircle_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ProgressCircle_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		920EEEA24A08BF19441126C9C7786142 /* ProgressCircle.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ProgressCircle.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A6C1547733D070842C8C5E94BC8FFBCB /* ProgressCircle.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ProgressCircle.modulemap; sourceTree = "<group>"; };
-		AD3B53E645990920DC6F76D1AEBFBFC4 /* ProgressCircle.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ProgressCircle.xcconfig; sourceTree = "<group>"; };
-		AD9544FFB7CDEB5355AC52B95B97CD16 /* Pods-ProgressCircle_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ProgressCircle_Example.release.xcconfig"; sourceTree = "<group>"; };
-		AEB76F1AEC93F5AC113694E80E0C10C3 /* ProgressCircle.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ProgressCircle.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		AFDEFAA5C2E3F951955CEE061425CDB3 /* Pods-ProgressCircle_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ProgressCircle_Example-Info.plist"; sourceTree = "<group>"; };
-		B1A442A894878DE90D57787EC908F531 /* ProgressCircle-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ProgressCircle-prefix.pch"; sourceTree = "<group>"; };
-		B2D8A80CF55AFE6CBA6F1C3CB720DB46 /* Pods-ProgressCircle_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ProgressCircle_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		C05152D95A78B31F203255B00218D2B4 /* ProgressCircle-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ProgressCircle-umbrella.h"; sourceTree = "<group>"; };
-		C5AF6E56B05552E2ECDF764DDCC07C35 /* Pods-ProgressCircle_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ProgressCircle_Tests.modulemap"; sourceTree = "<group>"; };
-		C9D4FE282FF0AEDC6CEDD00AACF3797D /* Pods-ProgressCircle_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ProgressCircle_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		CC967BB5F2918740A0B28778590B8980 /* ProgressCircle-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ProgressCircle-Info.plist"; sourceTree = "<group>"; };
-		D6B27FD982F12C9F62EC13D8006B9A20 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		E881D5927ECE938BEDB438D072BF7DE3 /* Pods-ProgressCircle_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ProgressCircle_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		EADCF1EE6DE0EBC4F87BA224590190F1 /* Pods-ProgressCircle_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ProgressCircle_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		3E3F46C39DDAEB5D9422C3E0E3FED770 /* ProgressCircle.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ProgressCircle.framework; path = ProgressCircle.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		42A9718EA515EB5F2B3ADE3668837BF5 /* Pods-ProgressCircle_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ProgressCircle_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		5E5F151043927055A6B2EC0EE612E959 /* Pods-ProgressCircle_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ProgressCircle_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		60975C34E880A221B66EC33FE0C2BBD9 /* Pods-ProgressCircle_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ProgressCircle_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		6300A7E1AB353A1E483DE005E7D57296 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		716C1ED7460E618F6C0C610DE0E540E0 /* Pods-ProgressCircle_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ProgressCircle_Tests-umbrella.h"; sourceTree = "<group>"; };
+		75388CD55D512E21F693D53B95B1FE7D /* Pods_ProgressCircle_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ProgressCircle_Tests.framework; path = "Pods-ProgressCircle_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		772678C01626FB51C610D182C579CFDD /* ProgressCircle.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ProgressCircle.xcconfig; sourceTree = "<group>"; };
+		79FAEE8B6CC6362B24BB544AF1198BAA /* ProgressCircle-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ProgressCircle-dummy.m"; sourceTree = "<group>"; };
+		7BAF05D14820966E44F075E7D0E78699 /* Pods-ProgressCircle_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ProgressCircle_Example-frameworks.sh"; sourceTree = "<group>"; };
+		8A45D4B5CCE25879E3B63D3CB1B40643 /* Pods-ProgressCircle_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ProgressCircle_Example-Info.plist"; sourceTree = "<group>"; };
+		920EEEA24A08BF19441126C9C7786142 /* ProgressCircle.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ProgressCircle.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		AD94B3F0715F5EABEE3816DBDC7CF4F0 /* ProgressCircle-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ProgressCircle-prefix.pch"; sourceTree = "<group>"; };
+		AF606C9B98AA94987CBE4BBB0FE1473E /* Pods-ProgressCircle_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ProgressCircle_Tests.modulemap"; sourceTree = "<group>"; };
+		B4A17A09CED01FE67E4834B8FAF13592 /* Pods-ProgressCircle_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ProgressCircle_Example-umbrella.h"; sourceTree = "<group>"; };
+		BB80F4ED1D91E132B0361133654FE59A /* Pods-ProgressCircle_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ProgressCircle_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		CB3CE274CB8C053FC6683C6C5816912E /* Pods-ProgressCircle_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ProgressCircle_Tests-Info.plist"; sourceTree = "<group>"; };
+		D6B27FD982F12C9F62EC13D8006B9A20 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		D8F3C3307582DED7E3E171579A937836 /* ProgressCircle-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ProgressCircle-Info.plist"; sourceTree = "<group>"; };
+		E130C176A9BD1FE9CE6BF7DA57D7D45A /* Pods_ProgressCircle_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ProgressCircle_Example.framework; path = "Pods-ProgressCircle_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1C8AC39A56B309584D7697924EA8270 /* Pods-ProgressCircle_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ProgressCircle_Example-dummy.m"; sourceTree = "<group>"; };
+		E457923DE0B188DC971BB94A1102985A /* Pods-ProgressCircle_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ProgressCircle_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		E64A52BF9085FE7DB7EA4A4CC2159D26 /* Pods-ProgressCircle_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ProgressCircle_Tests-dummy.m"; sourceTree = "<group>"; };
+		F84359AAD2157890008777483898ED4F /* Pods-ProgressCircle_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ProgressCircle_Example.modulemap"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1EF3247481F8448444460FD1F604D91D /* Frameworks */ = {
+		73D040BCB26E2ACB5D89938B40CD8DD0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6731E7919013603FAD9B496739091389 /* Foundation.framework in Frameworks */,
+				71B193CCD089CB15D39E03077BEA5489 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6A43ABCEDF94A0F086C868027DAE19B9 /* Frameworks */ = {
+		D066FF39F743FF4A4446D62FA1384AA5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE2EE34D7B76F6AF1896AB2C748E64DF /* Foundation.framework in Frameworks */,
+				2DC14D34B81437965255FCA2A34A06C8 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EF327129564131943F6FB869B8A35AC7 /* Frameworks */ = {
+		DDED9A2938BD655270DE8B50289CE3C3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3921A84AB31C6364C6BBCF4DA22CCB15 /* Foundation.framework in Frameworks */,
+				36B06824205FBBA3DB281F4EC59710C2 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -114,24 +114,36 @@
 			children = (
 				21EE4DAF831EDA31D621D233415F5F60 /* ProgressCircle.swift */,
 				0A299E212F309ECFD81531ACA89A5472 /* Pod */,
-				3E1B1B31C56D8C9A86D6B48C70587E8A /* Support Files */,
+				B817FCD72B4FE8CEE68A8D802921AB2C /* Support Files */,
 			);
 			name = ProgressCircle;
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		3E1B1B31C56D8C9A86D6B48C70587E8A /* Support Files */ = {
+		4DF61B0C81D2BB96FE5B624384CB7299 /* Pods-ProgressCircle_Tests */ = {
 			isa = PBXGroup;
 			children = (
-				A6C1547733D070842C8C5E94BC8FFBCB /* ProgressCircle.modulemap */,
-				AD3B53E645990920DC6F76D1AEBFBFC4 /* ProgressCircle.xcconfig */,
-				69600DEDBE1490659439036BA09D11E4 /* ProgressCircle-dummy.m */,
-				CC967BB5F2918740A0B28778590B8980 /* ProgressCircle-Info.plist */,
-				B1A442A894878DE90D57787EC908F531 /* ProgressCircle-prefix.pch */,
-				C05152D95A78B31F203255B00218D2B4 /* ProgressCircle-umbrella.h */,
+				AF606C9B98AA94987CBE4BBB0FE1473E /* Pods-ProgressCircle_Tests.modulemap */,
+				60975C34E880A221B66EC33FE0C2BBD9 /* Pods-ProgressCircle_Tests-acknowledgements.markdown */,
+				BB80F4ED1D91E132B0361133654FE59A /* Pods-ProgressCircle_Tests-acknowledgements.plist */,
+				E64A52BF9085FE7DB7EA4A4CC2159D26 /* Pods-ProgressCircle_Tests-dummy.m */,
+				CB3CE274CB8C053FC6683C6C5816912E /* Pods-ProgressCircle_Tests-Info.plist */,
+				716C1ED7460E618F6C0C610DE0E540E0 /* Pods-ProgressCircle_Tests-umbrella.h */,
+				5E5F151043927055A6B2EC0EE612E959 /* Pods-ProgressCircle_Tests.debug.xcconfig */,
+				2B072B4050FE44A2E472C832EB353F92 /* Pods-ProgressCircle_Tests.release.xcconfig */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/ProgressCircle";
+			name = "Pods-ProgressCircle_Tests";
+			path = "Target Support Files/Pods-ProgressCircle_Tests";
+			sourceTree = "<group>";
+		};
+		65A584591232BA30B3742648227095D1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E130C176A9BD1FE9CE6BF7DA57D7D45A /* Pods_ProgressCircle_Example.framework */,
+				75388CD55D512E21F693D53B95B1FE7D /* Pods_ProgressCircle_Tests.framework */,
+				3E3F46C39DDAEB5D9422C3E0E3FED770 /* ProgressCircle.framework */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 		85658E4C377EE5E2F32FDA175997EE4C /* Development Pods */ = {
@@ -142,39 +154,27 @@
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		866E3F6E1CDC37355521B5213C1D9052 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				59502021AB21D110C314540713F33214 /* Pods_ProgressCircle_Example.framework */,
-				081C2FA9AEC1C64D98C2947619CAB403 /* Pods_ProgressCircle_Tests.framework */,
-				AEB76F1AEC93F5AC113694E80E0C10C3 /* ProgressCircle.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		8D8B865F05AB20660B1F0167DF9E05BF /* Pods-ProgressCircle_Tests */ = {
-			isa = PBXGroup;
-			children = (
-				C5AF6E56B05552E2ECDF764DDCC07C35 /* Pods-ProgressCircle_Tests.modulemap */,
-				C9D4FE282FF0AEDC6CEDD00AACF3797D /* Pods-ProgressCircle_Tests-acknowledgements.markdown */,
-				7E2021B5FC461DDEA2A544A339772FD7 /* Pods-ProgressCircle_Tests-acknowledgements.plist */,
-				72C9FBF2A593C0921D7C739ADAB72839 /* Pods-ProgressCircle_Tests-dummy.m */,
-				5B59BBF9DE0C8909E1C6D3E94DDB8643 /* Pods-ProgressCircle_Tests-Info.plist */,
-				261BCCAFE850D927E4396832ED4EB60E /* Pods-ProgressCircle_Tests-umbrella.h */,
-				E881D5927ECE938BEDB438D072BF7DE3 /* Pods-ProgressCircle_Tests.debug.xcconfig */,
-				EADCF1EE6DE0EBC4F87BA224590190F1 /* Pods-ProgressCircle_Tests.release.xcconfig */,
-			);
-			name = "Pods-ProgressCircle_Tests";
-			path = "Target Support Files/Pods-ProgressCircle_Tests";
-			sourceTree = "<group>";
-		};
 		B7B8D81112763FEF0326956C31F020BF /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				EA09D257E83C485D70F323FB4DFCF959 /* Pods-ProgressCircle_Example */,
-				8D8B865F05AB20660B1F0167DF9E05BF /* Pods-ProgressCircle_Tests */,
+				CE749BF99F9F509F48D5B69E7B96AEE3 /* Pods-ProgressCircle_Example */,
+				4DF61B0C81D2BB96FE5B624384CB7299 /* Pods-ProgressCircle_Tests */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		B817FCD72B4FE8CEE68A8D802921AB2C /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				128479C815CD72F134E9B0B8C2C3966F /* ProgressCircle.modulemap */,
+				772678C01626FB51C610D182C579CFDD /* ProgressCircle.xcconfig */,
+				79FAEE8B6CC6362B24BB544AF1198BAA /* ProgressCircle-dummy.m */,
+				D8F3C3307582DED7E3E171579A937836 /* ProgressCircle-Info.plist */,
+				AD94B3F0715F5EABEE3816DBDC7CF4F0 /* ProgressCircle-prefix.pch */,
+				005BE8579092E0E3262E249DD8C3F35C /* ProgressCircle-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/ProgressCircle";
 			sourceTree = "<group>";
 		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
@@ -185,13 +185,30 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		CE749BF99F9F509F48D5B69E7B96AEE3 /* Pods-ProgressCircle_Example */ = {
+			isa = PBXGroup;
+			children = (
+				F84359AAD2157890008777483898ED4F /* Pods-ProgressCircle_Example.modulemap */,
+				1365422034E8E298768535246B514255 /* Pods-ProgressCircle_Example-acknowledgements.markdown */,
+				E457923DE0B188DC971BB94A1102985A /* Pods-ProgressCircle_Example-acknowledgements.plist */,
+				E1C8AC39A56B309584D7697924EA8270 /* Pods-ProgressCircle_Example-dummy.m */,
+				7BAF05D14820966E44F075E7D0E78699 /* Pods-ProgressCircle_Example-frameworks.sh */,
+				8A45D4B5CCE25879E3B63D3CB1B40643 /* Pods-ProgressCircle_Example-Info.plist */,
+				B4A17A09CED01FE67E4834B8FAF13592 /* Pods-ProgressCircle_Example-umbrella.h */,
+				42A9718EA515EB5F2B3ADE3668837BF5 /* Pods-ProgressCircle_Example.debug.xcconfig */,
+				2DBD410B7E9D52722359F0B774C7E6AB /* Pods-ProgressCircle_Example.release.xcconfig */,
+			);
+			name = "Pods-ProgressCircle_Example";
+			path = "Target Support Files/Pods-ProgressCircle_Example";
+			sourceTree = "<group>";
+		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				85658E4C377EE5E2F32FDA175997EE4C /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				866E3F6E1CDC37355521B5213C1D9052 /* Products */,
+				65A584591232BA30B3742648227095D1 /* Products */,
 				B7B8D81112763FEF0326956C31F020BF /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -204,99 +221,82 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		EA09D257E83C485D70F323FB4DFCF959 /* Pods-ProgressCircle_Example */ = {
-			isa = PBXGroup;
-			children = (
-				54E3E288E39F0884063C40C2A8507CFA /* Pods-ProgressCircle_Example.modulemap */,
-				B2D8A80CF55AFE6CBA6F1C3CB720DB46 /* Pods-ProgressCircle_Example-acknowledgements.markdown */,
-				1F9418BAEC858687FCD1023C60F4B8FE /* Pods-ProgressCircle_Example-acknowledgements.plist */,
-				53FAAFCA78CB27AA8A23508B98548503 /* Pods-ProgressCircle_Example-dummy.m */,
-				06A364DF187D3F47730AE2E0119DEBFD /* Pods-ProgressCircle_Example-frameworks.sh */,
-				AFDEFAA5C2E3F951955CEE061425CDB3 /* Pods-ProgressCircle_Example-Info.plist */,
-				302AC7B5AF32F936B55A9EE8B7774A69 /* Pods-ProgressCircle_Example-umbrella.h */,
-				39F142B058B75E7043714532FECC039A /* Pods-ProgressCircle_Example.debug.xcconfig */,
-				AD9544FFB7CDEB5355AC52B95B97CD16 /* Pods-ProgressCircle_Example.release.xcconfig */,
-			);
-			name = "Pods-ProgressCircle_Example";
-			path = "Target Support Files/Pods-ProgressCircle_Example";
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		04CE955429AA5F73F36A0DE71FC772FD /* Headers */ = {
+		3BF7326F602D3A75CDE58D751DB596C7 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C3F17795CEB406F0103D8BCA0DCFA822 /* ProgressCircle-umbrella.h in Headers */,
+				BC1DE4716F719F1947A0570D589619CD /* Pods-ProgressCircle_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1BADE6C84081E87DC00E93D8714FF72C /* Headers */ = {
+		AFFAB7CE38E64890CBC167A8F52EFACA /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AC251CB3D651D980589A618E50E58D03 /* Pods-ProgressCircle_Example-umbrella.h in Headers */,
+				FBB8AB2535990C18A015FB516A4A154B /* Pods-ProgressCircle_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DE6AE6D7D1321C8C2951691B292C0CDB /* Headers */ = {
+		DF8F286C82A0EAECF851DA224C853A29 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED723AE9F6F8A444995081F43A2B2AE9 /* Pods-ProgressCircle_Tests-umbrella.h in Headers */,
+				A8C3C0E2BF35C740845C247960138F31 /* ProgressCircle-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		490B359DE836D60992E09A2CB7923351 /* Pods-ProgressCircle_Example */ = {
+		46B9411E5FBE6EAEAE3BB1EFE17F2693 /* Pods-ProgressCircle_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3F6FEB2661B9D0C35426920B61E19477 /* Build configuration list for PBXNativeTarget "Pods-ProgressCircle_Example" */;
+			buildConfigurationList = 2A33BC167C71D18B0E5876746B3498CC /* Build configuration list for PBXNativeTarget "Pods-ProgressCircle_Tests" */;
 			buildPhases = (
-				1BADE6C84081E87DC00E93D8714FF72C /* Headers */,
-				1986FE087B705554A1C4EC78A24FB739 /* Sources */,
-				1EF3247481F8448444460FD1F604D91D /* Frameworks */,
-				723EC5E0AE735A2D694A105BC9C5386E /* Resources */,
+				3BF7326F602D3A75CDE58D751DB596C7 /* Headers */,
+				9F2C0166D6F8987E0C441FA4BF6619BC /* Sources */,
+				DDED9A2938BD655270DE8B50289CE3C3 /* Frameworks */,
+				73964EF115394A6346D82C62BEBFDA38 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				7B59279CE1D94974EDC6558CC20E9C50 /* PBXTargetDependency */,
-			);
-			name = "Pods-ProgressCircle_Example";
-			productName = "Pods-ProgressCircle_Example";
-			productReference = 59502021AB21D110C314540713F33214 /* Pods_ProgressCircle_Example.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		574C06DE8911D97A161C87300285BF10 /* Pods-ProgressCircle_Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = AE08756F90C96F447703947795BDF970 /* Build configuration list for PBXNativeTarget "Pods-ProgressCircle_Tests" */;
-			buildPhases = (
-				DE6AE6D7D1321C8C2951691B292C0CDB /* Headers */,
-				6F98447F633907C0B1FEC15C916CF86A /* Sources */,
-				6A43ABCEDF94A0F086C868027DAE19B9 /* Frameworks */,
-				3E57FCD5534F96437F4CCA9A14E0B2C6 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				F741B9A16072FE5870A6C2DF5DD01683 /* PBXTargetDependency */,
+				E3AAA42A70AF16F25FC9AFA0E7EEF84F /* PBXTargetDependency */,
 			);
 			name = "Pods-ProgressCircle_Tests";
 			productName = "Pods-ProgressCircle_Tests";
-			productReference = 081C2FA9AEC1C64D98C2947619CAB403 /* Pods_ProgressCircle_Tests.framework */;
+			productReference = 75388CD55D512E21F693D53B95B1FE7D /* Pods_ProgressCircle_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		6FB0A3D6F537F44AB7801A3B65900F69 /* ProgressCircle */ = {
+		62BE87AEA11593C94A1F7D1E60C7A555 /* Pods-ProgressCircle_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 846630EBD17A014FBA91D8E3A88D005A /* Build configuration list for PBXNativeTarget "ProgressCircle" */;
+			buildConfigurationList = 43657739EB13A1628D5B424BD3EE7A1E /* Build configuration list for PBXNativeTarget "Pods-ProgressCircle_Example" */;
 			buildPhases = (
-				04CE955429AA5F73F36A0DE71FC772FD /* Headers */,
-				F75D9DE0288CDA0990515BE903725C5B /* Sources */,
-				EF327129564131943F6FB869B8A35AC7 /* Frameworks */,
-				606C730AD3C5E68BDCC91A26D6616923 /* Resources */,
+				AFFAB7CE38E64890CBC167A8F52EFACA /* Headers */,
+				F666390EAB8C6805BB266ABD12BDFD47 /* Sources */,
+				73D040BCB26E2ACB5D89938B40CD8DD0 /* Frameworks */,
+				B95A0C223E2C49319545275FF41D72B3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				418F0F09166C64E5465DE60289B39F81 /* PBXTargetDependency */,
+			);
+			name = "Pods-ProgressCircle_Example";
+			productName = "Pods-ProgressCircle_Example";
+			productReference = E130C176A9BD1FE9CE6BF7DA57D7D45A /* Pods_ProgressCircle_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		B0AB60E8701C71E591C53C297B3851E6 /* ProgressCircle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8841141083A0E2C8109A28047B0F8CF7 /* Build configuration list for PBXNativeTarget "ProgressCircle" */;
+			buildPhases = (
+				DF8F286C82A0EAECF851DA224C853A29 /* Headers */,
+				C366FF32B53267F832CCAA9096BFA42C /* Sources */,
+				D066FF39F743FF4A4446D62FA1384AA5 /* Frameworks */,
+				E211FA9E7F906610A787BE93E0A7CAC9 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -304,7 +304,7 @@
 			);
 			name = ProgressCircle;
 			productName = ProgressCircle;
-			productReference = AEB76F1AEC93F5AC113694E80E0C10C3 /* ProgressCircle.framework */;
+			productReference = 3E3F46C39DDAEB5D9422C3E0E3FED770 /* ProgressCircle.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -313,13 +313,8 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1020;
-				LastUpgradeCheck = 1020;
-				TargetAttributes = {
-					6FB0A3D6F537F44AB7801A3B65900F69 = {
-						LastSwiftMigration = 1030;
-					};
-				};
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -329,33 +324,33 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = 866E3F6E1CDC37355521B5213C1D9052 /* Products */;
+			productRefGroup = 65A584591232BA30B3742648227095D1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				490B359DE836D60992E09A2CB7923351 /* Pods-ProgressCircle_Example */,
-				574C06DE8911D97A161C87300285BF10 /* Pods-ProgressCircle_Tests */,
-				6FB0A3D6F537F44AB7801A3B65900F69 /* ProgressCircle */,
+				62BE87AEA11593C94A1F7D1E60C7A555 /* Pods-ProgressCircle_Example */,
+				46B9411E5FBE6EAEAE3BB1EFE17F2693 /* Pods-ProgressCircle_Tests */,
+				B0AB60E8701C71E591C53C297B3851E6 /* ProgressCircle */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3E57FCD5534F96437F4CCA9A14E0B2C6 /* Resources */ = {
+		73964EF115394A6346D82C62BEBFDA38 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606C730AD3C5E68BDCC91A26D6616923 /* Resources */ = {
+		B95A0C223E2C49319545275FF41D72B3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		723EC5E0AE735A2D694A105BC9C5386E /* Resources */ = {
+		E211FA9E7F906610A787BE93E0A7CAC9 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -365,52 +360,52 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1986FE087B705554A1C4EC78A24FB739 /* Sources */ = {
+		9F2C0166D6F8987E0C441FA4BF6619BC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F0461D5A6FF9C9A9BCD2AB1AD368D18C /* Pods-ProgressCircle_Example-dummy.m in Sources */,
+				E1B487FA4F8F17D2E29DDB9069DFA229 /* Pods-ProgressCircle_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6F98447F633907C0B1FEC15C916CF86A /* Sources */ = {
+		C366FF32B53267F832CCAA9096BFA42C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FCAD6979B70E4D547A58306AEF3D41AD /* Pods-ProgressCircle_Tests-dummy.m in Sources */,
+				986EB0E55C9871840AADFD9C64213334 /* ProgressCircle-dummy.m in Sources */,
+				D552D347AFE79810C7BCA435500EB29C /* ProgressCircle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F75D9DE0288CDA0990515BE903725C5B /* Sources */ = {
+		F666390EAB8C6805BB266ABD12BDFD47 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A048FE22EAE4D8251BB60B3A3BA26491 /* ProgressCircle-dummy.m in Sources */,
-				693CF11CA89F81B21288210907AEAFBD /* ProgressCircle.swift in Sources */,
+				885FFB1BCB0DB9A12DBEBC258EEF54D2 /* Pods-ProgressCircle_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		7B59279CE1D94974EDC6558CC20E9C50 /* PBXTargetDependency */ = {
+		418F0F09166C64E5465DE60289B39F81 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = ProgressCircle;
-			target = 6FB0A3D6F537F44AB7801A3B65900F69 /* ProgressCircle */;
-			targetProxy = E7D5334EE9188C714FDD26B690AFBEF2 /* PBXContainerItemProxy */;
+			target = B0AB60E8701C71E591C53C297B3851E6 /* ProgressCircle */;
+			targetProxy = BAC23DFBCBA86F36A5A3BB55FDA34183 /* PBXContainerItemProxy */;
 		};
-		F741B9A16072FE5870A6C2DF5DD01683 /* PBXTargetDependency */ = {
+		E3AAA42A70AF16F25FC9AFA0E7EEF84F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-ProgressCircle_Example";
-			target = 490B359DE836D60992E09A2CB7923351 /* Pods-ProgressCircle_Example */;
-			targetProxy = 2D6311BB731376E32AE749A8C4A90E88 /* PBXContainerItemProxy */;
+			target = 62BE87AEA11593C94A1F7D1E60C7A555 /* Pods-ProgressCircle_Example */;
+			targetProxy = 2EE674D41FF9BBB40CA963F8DCF41CB4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		31F4795313D05B1E0737E727DFDF8E84 /* Release */ = {
+		2366B6D16C3049103846E6CD8EC41931 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AD3B53E645990920DC6F76D1AEBFBFC4 /* ProgressCircle.xcconfig */;
+			baseConfigurationReference = 772678C01626FB51C610D182C579CFDD /* ProgressCircle.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -440,40 +435,9 @@
 			};
 			name = Release;
 		};
-		38B2815162BF3E697EAE4AEB91E2947E /* Debug */ = {
+		2ADA4E2E41B59254EFD3F389B27541A6 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AD3B53E645990920DC6F76D1AEBFBFC4 /* ProgressCircle.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/ProgressCircle/ProgressCircle-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ProgressCircle/ProgressCircle-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ProgressCircle/ProgressCircle.modulemap";
-				PRODUCT_MODULE_NAME = ProgressCircle;
-				PRODUCT_NAME = ProgressCircle;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		41C31AFA68AE23926AA0910F3F0AE6A4 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = EADCF1EE6DE0EBC4F87BA224590190F1 /* Pods-ProgressCircle_Tests.release.xcconfig */;
+			baseConfigurationReference = 2B072B4050FE44A2E472C832EB353F92 /* Pods-ProgressCircle_Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -505,9 +469,9 @@
 			};
 			name = Release;
 		};
-		5F3961B75BDAAFC4D9974F21ABFD865F /* Release */ = {
+		6BB7C73358C5A37AA4E1EBD7435AD271 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AD9544FFB7CDEB5355AC52B95B97CD16 /* Pods-ProgressCircle_Example.release.xcconfig */;
+			baseConfigurationReference = 5E5F151043927055A6B2EC0EE612E959 /* Pods-ProgressCircle_Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -519,46 +483,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-ProgressCircle_Example/Pods-ProgressCircle_Example-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-ProgressCircle_Tests/Pods-ProgressCircle_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-ProgressCircle_Example/Pods-ProgressCircle_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		896331CCA81E1E67A8364CAFCF2D344C /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 39F142B058B75E7043714532FECC039A /* Pods-ProgressCircle_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-ProgressCircle_Example/Pods-ProgressCircle_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-ProgressCircle_Example/Pods-ProgressCircle_Example.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-ProgressCircle_Tests/Pods-ProgressCircle_Tests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -625,7 +555,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -695,9 +626,9 @@
 			};
 			name = Debug;
 		};
-		C295B999747833402739839A4438A257 /* Debug */ = {
+		D8E725186FD2FE39F14486E53A0EB4B1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E881D5927ECE938BEDB438D072BF7DE3 /* Pods-ProgressCircle_Tests.debug.xcconfig */;
+			baseConfigurationReference = 2DBD410B7E9D52722359F0B774C7E6AB /* Pods-ProgressCircle_Example.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -709,12 +640,77 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-ProgressCircle_Tests/Pods-ProgressCircle_Tests-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-ProgressCircle_Example/Pods-ProgressCircle_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-ProgressCircle_Tests/Pods-ProgressCircle_Tests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-ProgressCircle_Example/Pods-ProgressCircle_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		EB846C80135A04E491BFB1F90F19027F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 772678C01626FB51C610D182C579CFDD /* ProgressCircle.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/ProgressCircle/ProgressCircle-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ProgressCircle/ProgressCircle-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ProgressCircle/ProgressCircle.modulemap";
+				PRODUCT_MODULE_NAME = ProgressCircle;
+				PRODUCT_NAME = ProgressCircle;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		FE7825A1BB8C22271D66FD2A9ABD506A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 42A9718EA515EB5F2B3ADE3668837BF5 /* Pods-ProgressCircle_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-ProgressCircle_Example/Pods-ProgressCircle_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ProgressCircle_Example/Pods-ProgressCircle_Example.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -731,11 +727,20 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3F6FEB2661B9D0C35426920B61E19477 /* Build configuration list for PBXNativeTarget "Pods-ProgressCircle_Example" */ = {
+		2A33BC167C71D18B0E5876746B3498CC /* Build configuration list for PBXNativeTarget "Pods-ProgressCircle_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				896331CCA81E1E67A8364CAFCF2D344C /* Debug */,
-				5F3961B75BDAAFC4D9974F21ABFD865F /* Release */,
+				6BB7C73358C5A37AA4E1EBD7435AD271 /* Debug */,
+				2ADA4E2E41B59254EFD3F389B27541A6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		43657739EB13A1628D5B424BD3EE7A1E /* Build configuration list for PBXNativeTarget "Pods-ProgressCircle_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FE7825A1BB8C22271D66FD2A9ABD506A /* Debug */,
+				D8E725186FD2FE39F14486E53A0EB4B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -749,20 +754,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		846630EBD17A014FBA91D8E3A88D005A /* Build configuration list for PBXNativeTarget "ProgressCircle" */ = {
+		8841141083A0E2C8109A28047B0F8CF7 /* Build configuration list for PBXNativeTarget "ProgressCircle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				38B2815162BF3E697EAE4AEB91E2947E /* Debug */,
-				31F4795313D05B1E0737E727DFDF8E84 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		AE08756F90C96F447703947795BDF970 /* Build configuration list for PBXNativeTarget "Pods-ProgressCircle_Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				C295B999747833402739839A4438A257 /* Debug */,
-				41C31AFA68AE23926AA0910F3F0AE6A4 /* Release */,
+				EB846C80135A04E491BFB1F90F19027F /* Debug */,
+				2366B6D16C3049103846E6CD8EC41931 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
