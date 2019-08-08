@@ -1,0 +1,16 @@
+PODS:
+  - ProgressCircle (0.1.0)
+
+DEPENDENCIES:
+  - ProgressCircle (from `../`)
+
+EXTERNAL SOURCES:
+  ProgressCircle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ProgressCircle: e984cb126506d7df67caad43aa02af3225e8cfcb
+
+PODFILE CHECKSUM: eaa5ed09f3bcfc81aa72c2cb364b2e5bf04d007c
+
+COCOAPODS: 1.6.1

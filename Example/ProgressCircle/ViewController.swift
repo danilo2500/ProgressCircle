@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import ProgressCircle
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var progressCircle: ProgressCircle!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        progressCircle.changePercentage(20)
     }
 
     override func didReceiveMemoryWarning() {

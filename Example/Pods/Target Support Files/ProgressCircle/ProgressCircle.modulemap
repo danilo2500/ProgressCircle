@@ -1,0 +1,6 @@
+framework module ProgressCircle {
+  umbrella header "ProgressCircle-umbrella.h"
+
+  export *
+  module * { export * }
+}
