@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ProgressCircle_Example' do
+  pod 'ProgressCircle', :path => '../'
+
+  target 'ProgressCircle_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
